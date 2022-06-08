@@ -1,0 +1,20 @@
+diff a/Ex4.java b/Ex4.java	(rejected hunks)
+@@ -0,0 +1,17 @@
++public class Ex4 {
++    public static void main(String[] args) {
++        int kor, eng, mat;
++        int tot;
++        double avg;
++
++        kor = 100;
++        eng = 50;
++        mat = 70;
++
++        tot = kor + eng + mat;
++        avg = tot / 3.0;
++
++        System.out.println("���� = " + tot);
++        System.out.println("��� = " + avg);
++    }
++}
+\ No newline at end of file
