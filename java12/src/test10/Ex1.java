@@ -12,7 +12,7 @@ public class Ex1 {
 		temp = transform(arr, s -> s + "ดิ");
 		view(temp, System.out::println);
 		
-		System.out.println("------------------");
+		System.out.println("-----------------");
 		
 		temp = transform(arr, s-> s + "^^");
 		view(temp, System.out::println);
