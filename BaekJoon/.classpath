@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="01_입출력과 사칙연산"/>
 	<classpathentry kind="src" path="03_반복문"/>
 	<classpathentry kind="src" path="02_조건문"/>
+	<classpathentry kind="src" path="04_1차원배열"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
